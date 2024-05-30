@@ -4,7 +4,7 @@ Intellij 와 Git 연결하기 (약 20분 소요)
 1. github 회원가입
 2. git 다운로드 및 설치(https://git-scm.com/downloads)
 3. 시작 - git bash 열기
-4. github 계정으로 로그인
+4. github 계정으로 로그인  
   git config --global user.email "내 이메일"  
   git config --global user.name "내 이름"
 5. intellij 실행
